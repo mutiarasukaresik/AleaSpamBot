@@ -1,5 +1,5 @@
-# <a style="font-family:cursive">MySPAMBot-OTP WORK 1000% FOR ID NUMBER!!</a>
-<p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>MySPAMBot-OTP</b> solusinya!! <b>MySPAMBot-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
+# <a style="font-family:cursive">AleaSpamBot-OTP WORK 1000% FOR ID NUMBER!!</a>
+<p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>AleaSpamBot-OTP</b> solusinya!! <b>AleaSpamBot-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
 <br>
 
 # Testimoni 😂😂
@@ -45,11 +45,11 @@ Sudah pasti require <b>[Python](https://www.python.org/downloads/)</b> , install
 
 - **Clone repository**
 ```bash
-git clone https://github.com/rickyfazaa/MySPAMBot-OTP
+git clone https://github.com/mutiarasukaresik/AleaSpamBot
 ```
 - **Masuk kedalam directory**
 ```sh
-cd MySPAMBot-OTP
+cd AleaSpamBot
 ```
 - **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
 ```bash
@@ -59,12 +59,12 @@ python main.py
 
 ### <p style="color:red">NOTE: Instalasi Tanpa GIT</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
 - **Download Manual:**
-[Download MySPAMBot-OTP](https://github.com/rickyfazaa/MySPAMBot-OTP/releases/download/v.1.0.8/MySPAMBot-OTP-v1.0.8-windows.rar) <br>
-- Extract **MySPAMBot-OTP-v1.0.8-windows.rar**
+[Download AleaSpamBot-OTP](https://github.com/mutiarasukaresik/AleaSpamBot/releases/download/v.1.0.8/AleaSpamBot-v1.0.8-windows.rar) <br>
+- Extract **AleaSpamBot.rar**
 - **Buka CMD / Command Prompt (atau terminal VSCode)**
-- **Ketik ini untuk masuk kedalam Folder MySPAMBot-OTP**
+- **Ketik ini untuk masuk kedalam Folder AleaSpamBot**
 ```sh
-cd MySPAMBot-OTP
+cd AleaSpamBot
 ```
 - **Jalankan main.py atau Ketik ini di Terminal ( CMD )**
 ```bash
@@ -81,5 +81,5 @@ python main.py
 
 ## Support Me 
 ## (KALO ANDA SUKA JANGAN LUPA STAR NYA OK, BIAR GK KETINGGALAN UPDATE YGY)
-### [**My Instagram: @rickyfazaa**](https://www.instagram.com/rickyfazaa)    
-Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/rickyfazaa).
+### [**My Instagram: @farhan_maulana72**](https://www.instagram.com/farhan_maulana72)    
+Untuk bertanya perihal tools bisa langsung dm [**Instagram**](https://www.instagram.com/farhan_maulana72).
