@@ -1,4 +1,4 @@
-# <a style="font-family:cursive">AleaSpamBot-OTP WORK 1000% FOR ID NUMBER!!</a>
+# <a style="font-family:cursive">AleaSpamBot WORK 100%!!</a>
 <p align="justify">Anda punya masalah sama bocil di komen? Atau Anda sedang adu bacot sama fans club bola sebelah? <b>AleaSpamBot-OTP</b> solusinya!! <b>AleaSpamBot-OTP</b> adalah sebuah aplikasi prank yang menggunakan sebuah BOT untuk melakukan requests berulang kali sehingga target akan dikirimi pesan OTP bertubi-tubi. Aplikasi ini ditujukan sebagai bahan belajar (Open Source) menggunakan modul Requests dan implementasi HTTPS tools di Python.</p>
 <br>
 
